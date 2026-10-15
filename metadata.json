@@ -1,0 +1,6 @@
+{
+  "name": "College Attendance Management System",
+  "description": "Comprehensive college attendance tracking with 59-student roster, holiday exclusions, monthly and cumulative attendance analytics, and exportable reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
